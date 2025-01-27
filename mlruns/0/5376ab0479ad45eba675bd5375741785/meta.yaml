@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhaosilei/PycharmProjects/Breast%20Cancer%20Predictor/mlruns/0/5376ab0479ad45eba675bd5375741785/artifacts
+end_time: 1737430785782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5376ab0479ad45eba675bd5375741785
+run_name: thoughtful-toad-686
+run_uuid: 5376ab0479ad45eba675bd5375741785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737430784002
+status: 3
+tags: []
+user_id: zhaosilei

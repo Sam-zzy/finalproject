@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhaosilei/PycharmProjects/Breast%20Cancer%20Predictor/mlruns/0/75fd10621a0f444eb00b26d0e0ad850b/artifacts
+end_time: 1737430784000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75fd10621a0f444eb00b26d0e0ad850b
+run_name: respected-dog-1000
+run_uuid: 75fd10621a0f444eb00b26d0e0ad850b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737430781702
+status: 3
+tags: []
+user_id: zhaosilei

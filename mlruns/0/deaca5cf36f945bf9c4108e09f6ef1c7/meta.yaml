@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhaosilei/PycharmProjects/Breast%20Cancer%20Predictor/mlruns/0/deaca5cf36f945bf9c4108e09f6ef1c7/artifacts
+end_time: 1737430787449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: deaca5cf36f945bf9c4108e09f6ef1c7
+run_name: clumsy-turtle-754
+run_uuid: deaca5cf36f945bf9c4108e09f6ef1c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737430785784
+status: 3
+tags: []
+user_id: zhaosilei

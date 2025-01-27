@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/33620/Desktop/efrei/s9/MachineLearningInProduction/finalproject/project/Breast
+  Cancer Diagnosis/mlruns/0/901b44a295bc4d9386ed61ff24af93be/artifacts
+end_time: 1738019773335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 901b44a295bc4d9386ed61ff24af93be
+run_name: big-hog-480
+run_uuid: 901b44a295bc4d9386ed61ff24af93be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738019770420
+status: 3
+tags: []
+user_id: '33620'

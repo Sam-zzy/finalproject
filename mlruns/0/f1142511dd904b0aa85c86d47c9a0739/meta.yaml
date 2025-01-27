@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhaosilei/PycharmProjects/Breast%20Cancer%20Predictor/mlruns/0/f1142511dd904b0aa85c86d47c9a0739/artifacts
+end_time: 1737430617024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1142511dd904b0aa85c86d47c9a0739
+run_name: likeable-yak-315
+run_uuid: f1142511dd904b0aa85c86d47c9a0739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737430617017
+status: 4
+tags: []
+user_id: zhaosilei
