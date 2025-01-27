@@ -6,17 +6,17 @@ on:
       - dev
 
 jobs:
-  push_to_staging:
+  merge_to_staging:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Push to Staging
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git remote set-url origin https://${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/Sam-zzy/finalproject.git
-          git checkout -b staging
-          git push origin staging
+      - name: Merge Dev to Staging
+        uses: devmasx/merge-branch@master
+        with:
+          type: now
+          from_branch: dev
+          target_branch: staging
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
