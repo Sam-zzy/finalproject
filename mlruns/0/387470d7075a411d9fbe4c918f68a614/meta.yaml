@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhaosilei/PycharmProjects/Breast%20Cancer%20Predictor/mlruns/0/387470d7075a411d9fbe4c918f68a614/artifacts
+end_time: 1737430611872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 387470d7075a411d9fbe4c918f68a614
+run_name: defiant-shoat-452
+run_uuid: 387470d7075a411d9fbe4c918f68a614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737430609448
+status: 3
+tags: []
+user_id: zhaosilei

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhaosilei/PycharmProjects/Breast%20Cancer%20Predictor/mlruns/0/f280f1a258e947d8a0fefa10a83e7d2f/artifacts
+end_time: 1737433233913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f280f1a258e947d8a0fefa10a83e7d2f
+run_name: skillful-ray-908
+run_uuid: f280f1a258e947d8a0fefa10a83e7d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737433232059
+status: 3
+tags: []
+user_id: zhaosilei

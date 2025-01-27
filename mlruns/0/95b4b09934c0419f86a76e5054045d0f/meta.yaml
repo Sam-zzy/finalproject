@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhaosilei/PycharmProjects/Breast%20Cancer%20Predictor/mlruns/0/95b4b09934c0419f86a76e5054045d0f/artifacts
+end_time: 1737433232057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95b4b09934c0419f86a76e5054045d0f
+run_name: adventurous-kit-332
+run_uuid: 95b4b09934c0419f86a76e5054045d0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737433230276
+status: 3
+tags: []
+user_id: zhaosilei

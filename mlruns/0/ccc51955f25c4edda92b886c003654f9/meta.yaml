@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhaosilei/PycharmProjects/Breast%20Cancer%20Predictor/mlruns/0/ccc51955f25c4edda92b886c003654f9/artifacts
+end_time: 1737432707029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccc51955f25c4edda92b886c003654f9
+run_name: fun-whale-381
+run_uuid: ccc51955f25c4edda92b886c003654f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737432705283
+status: 3
+tags: []
+user_id: zhaosilei

@@ -12,7 +12,7 @@ from time import time
 
 def random_forest_train():
     # Importing the dataset
-    # global X_test, y_test, sc
+    global X_test, y_test, sc
 
     dataset = pd.read_csv('Breast Cancer Data.csv')
     X = dataset.iloc[:, 2:32].values

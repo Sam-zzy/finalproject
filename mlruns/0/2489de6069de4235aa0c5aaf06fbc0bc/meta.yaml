@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/33620/Desktop/efrei/s9/MachineLearningInProduction/finalproject/project/Breast
+  Cancer Diagnosis/mlruns/0/2489de6069de4235aa0c5aaf06fbc0bc/artifacts
+end_time: 1738019779199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2489de6069de4235aa0c5aaf06fbc0bc
+run_name: calm-bee-358
+run_uuid: 2489de6069de4235aa0c5aaf06fbc0bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738019776334
+status: 3
+tags: []
+user_id: '33620'
