@@ -7,7 +7,7 @@ joblib
 kiwisolver
 MarkupSafe
 matplotlib
-numpy==1.25.0
+numpy>=1.26.0
 pandas
 pyparsing
 python-dateutil
