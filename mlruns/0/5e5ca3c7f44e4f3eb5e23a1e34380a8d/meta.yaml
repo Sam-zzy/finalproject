@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/33620/Desktop/efrei/s9/MachineLearningInProduction/finalproject/project/Breast
+  Cancer Diagnosis/mlruns/0/5e5ca3c7f44e4f3eb5e23a1e34380a8d/artifacts
+end_time: 1738019842333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e5ca3c7f44e4f3eb5e23a1e34380a8d
+run_name: upbeat-snake-802
+run_uuid: 5e5ca3c7f44e4f3eb5e23a1e34380a8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738019839195
+status: 3
+tags: []
+user_id: '33620'

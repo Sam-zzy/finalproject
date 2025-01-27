@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/33620/Desktop/efrei/s9/MachineLearningInProduction/finalproject/project/Breast
+  Cancer Diagnosis/mlruns/0/ee244d64bd8a4308b3a816d41833f296/artifacts
+end_time: 1738019776327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee244d64bd8a4308b3a816d41833f296
+run_name: industrious-mare-177
+run_uuid: ee244d64bd8a4308b3a816d41833f296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738019773342
+status: 3
+tags: []
+user_id: '33620'

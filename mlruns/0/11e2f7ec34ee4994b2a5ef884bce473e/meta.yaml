@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/33620/Desktop/efrei/s9/MachineLearningInProduction/finalproject/project/Breast
+  Cancer Diagnosis/mlruns/0/11e2f7ec34ee4994b2a5ef884bce473e/artifacts
+end_time: 1738019848201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11e2f7ec34ee4994b2a5ef884bce473e
+run_name: receptive-wren-155
+run_uuid: 11e2f7ec34ee4994b2a5ef884bce473e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738019845183
+status: 3
+tags: []
+user_id: '33620'

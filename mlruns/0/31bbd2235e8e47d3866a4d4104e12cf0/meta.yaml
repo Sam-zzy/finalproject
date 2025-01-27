@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhaosilei/PycharmProjects/Breast%20Cancer%20Predictor/mlruns/0/31bbd2235e8e47d3866a4d4104e12cf0/artifacts
+end_time: 1737432703462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31bbd2235e8e47d3866a4d4104e12cf0
+run_name: resilient-moose-55
+run_uuid: 31bbd2235e8e47d3866a4d4104e12cf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737432700894
+status: 3
+tags: []
+user_id: zhaosilei
