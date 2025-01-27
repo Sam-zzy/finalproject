@@ -1,0 +1,25 @@
+name: Push to Main
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy_to_production:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Build Docker Image
+        run: |
+          docker build -t ${{ secrets.DOCKER_HUB_USERNAME }}/finalproject:latest .
+          echo ${{ secrets.DOCKER_HUB_PASSWORD }} | docker login -u ${{ secrets.DOCKER_HUB_USERNAME }} --password-stdin
+          docker push ${{ secrets.DOCKER_HUB_USERNAME }}/finalproject:latest
+
+      - name: Deploy to Production
+        run: |
+          # Add deployment commands for your cloud platform
+          echo "Deploying to production..."
