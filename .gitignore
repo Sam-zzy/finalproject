@@ -23,3 +23,7 @@ mlruns/
 
 # 忽略日志文件
 *.log
+
+# Python 缓存文件
+__pycache__/
+*.pyc
