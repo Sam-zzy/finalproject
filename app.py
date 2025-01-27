@@ -62,7 +62,7 @@ def login_user():
 
 if __name__ == '__main__':
     # global clf
-    # clf = random_forest_train()
+    clf, sc = random_forest_train()
     randorm_forest_test(clf)
     # print("Done")
     app.run(debug=True)
