@@ -65,4 +65,4 @@ if __name__ == '__main__':
     clf, sc = random_forest_train()
     randorm_forest_test(clf)
     # print("Done")
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True)
